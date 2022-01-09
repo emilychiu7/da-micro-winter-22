@@ -1,1 +1,1 @@
-Assignments and mini-projects for EverUp Data Analytics Microcredential Program
+Assignments and mini-projects from the EverUp Data Analytics Microcredential Winter 2022 Program.
