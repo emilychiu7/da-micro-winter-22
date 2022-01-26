@@ -8,8 +8,13 @@
 
 # Overview:
 UNIT 1: Introduction to Data Analytics
+
 UNIT 2: Python Fundamentals
+
 UNIT 3: Advanced Python
+
 UNIT 4: Machine Learning
+
 UNIT 5: SQL
+
 UNIT 6: Tableau
